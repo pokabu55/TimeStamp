@@ -1,0 +1,9 @@
+!.gitignore
+
+/bin/
+/tmp/
+/images/
+/data/
+
+*.o
+*.d
